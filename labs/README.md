@@ -1,4 +1,4 @@
-# Labs — Build and Deploy Python Applications with Vibe Coding
+# Labs — AI Vibe Coding for Python Applications
 
 20 hands-on labs building **CardGuard**, a card-transaction fraud screening system.
 
